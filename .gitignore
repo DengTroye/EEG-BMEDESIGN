@@ -7,10 +7,10 @@ data/train/
 docs/
 
 # Results and Outputs
-# results/
-# experiments/
-# checkpoints/
-# submissions/
+results/
+experiments/
+checkpoints/
+submissions/
 
 # Model files
 *.pth
