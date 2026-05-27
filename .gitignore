@@ -1,0 +1,70 @@
+# ========================================
+# Data and Competition Files
+# ========================================
+data/test_public/
+data/train/
+*.mat
+docs/
+
+# Results and Outputs
+# results/
+# experiments/
+# checkpoints/
+# submissions/
+
+# Model files
+*.pth
+*.pt
+*.pkl
+*.joblib
+*.bin
+*.onnx
+
+# ========================================
+# Python
+# ========================================
+__pycache__/
+*.py[cod]
+*.so
+.Python
+build/
+dist/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Virtual Environments
+.venv
+venv/
+env/
+ENV/
+.env
+
+# ========================================
+# Jupyter
+# ========================================
+.ipynb_checkpoints/
+*.ipynb_checkpoints
+
+# ========================================
+# Logging & Experiments
+# ========================================
+wandb/
+runs/
+lightning_logs/
+logs/
+
+# ========================================
+# IDE / Editor
+# ========================================
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# ========================================
+# OS Files
+# ========================================
+.DS_Store
+Thumbs.db
